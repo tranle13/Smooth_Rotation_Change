@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">LeTran_CE08</string>
+    <string name="app_name">Smooth Rotation</string>
+    <string name="hint">Type in something &#8230;</string>
+    <string name="submit">Submit</string>
+    <string name="toast_empty">Textfield is empty</string>
+    <string name="toast_allspaces">Text cannot contain only spaces</string>
+    <string name="toast_alreadyadded">You already added this</string>
 </resources>
